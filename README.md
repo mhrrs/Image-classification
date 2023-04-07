@@ -1,2 +1,2 @@
 # Image-classification
-A CNN trained on low resolution image data.
+A CNN made with TensorFlow trained on CIFAR image data.
